@@ -6,9 +6,9 @@
 
 2. Extract the file and copy oahms folder
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/HTML)
+3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/HTML)
 
-4.Open PHPMyAdmin (http://localhost/phpmyadmin)
+4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
 5. Create a database with the name oahmsdb
 
@@ -19,3 +19,5 @@
 Admin Credential
 Username: admin
 Password: Test@123
+
+
