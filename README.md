@@ -1,6 +1,6 @@
 # Old-Age-Home-Management-System
 
-How to run the Old Age Home Management System Project Using PHP and MySQL
+### How to run the Old Age Home Management System Project Using PHP and MySQL
 
 1. Download the zip file
 
