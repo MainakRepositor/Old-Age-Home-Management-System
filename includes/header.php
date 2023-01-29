@@ -22,17 +22,7 @@
               </div>  
               <div class="clearfix"> </div> 
           </div>
-          <div class="social-content">
-              <div class="top-icons">
-                <ul>
-                  <li><a class="fb" href="#"><span> </span></a></li>
-                  <li><a class="gp" href="#"><span> </span></a></li>
-                  <li><a class="tw" href="#"><span> </span></a></li>
-                  <li><a class="you" href="#"><span> </span></a></li>
-                  <div class="clearfix"> </div>
-                </ul>
-              </div>
-            </div>
+          
           </div>
             <div class="clearfix"></div>
       </div>
@@ -47,6 +37,7 @@
                 <li><a href="eligibility.php">Eligibility</a></li>
                 <li><a href="rules.php"> Rules </a></li>
                 <li><a href="search.php"> Search </a></li>
+                <li><a href="https://www.who.int/" target="_blank"> HealthBlog</a></li>
                 <li><a href="contact.php">Contact</a></li>
                   <div class="clearfix"> </div>
 
