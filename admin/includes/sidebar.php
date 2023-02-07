@@ -99,7 +99,7 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="https://multimed.netlify.app/" target="_blank">
+            <a class="nav-link" href="https://arogya.streamlit.app/" target="_blank">
               <i class="typcn typcn-health menu-icon"></i>
               <span class="menu-title">Health Checkup</span>
             </a>
